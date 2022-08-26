@@ -1,5 +1,5 @@
 # LedButton-Game
-Best game in the world 
+The best game in the world !
 
 
 Sence of the game lies in the fact that you have time to press the button that corresponds to the led
